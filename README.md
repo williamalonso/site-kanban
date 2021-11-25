@@ -3,7 +3,7 @@
     </h1>
 
 <div align="center">
-  <img src="#" alt"Kanban" title="Kanban" width="600" />
+  <img src="https://github.com/williamalonso/site-kanban/blob/master/src/image/kanban.png" alt"Kanban" title="Kanban" width="600" />
   
 
 ---
@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🙅 Instalações e usos
 
-Para acessar o site [clique aqui](https://site-analisador-numeros.vercel.app/)
+Para acessar o site [clique aqui](https://site-kanban.vercel.app/)
 
 Caso queira, clone ou faça o downlod desse repositório:
 
